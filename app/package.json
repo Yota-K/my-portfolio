@@ -35,7 +35,7 @@
     "gatsby-plugin-sharp": "^2.3.8",
     "gatsby-transformer-remark": "^2.6.42",
     "gatsby-transformer-sharp": "^2.3.9",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "particles-bg": "^2.4.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-chartjs-2": "^2.8.0",
